@@ -44,8 +44,8 @@ body{
 }
 
 a{
-    color:white;
+    color:white !important;
 }
 a:hover, a:active, a:focus {
-    color:black;
+    color:black !important;
 }

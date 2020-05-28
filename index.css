@@ -15,6 +15,17 @@ body{
     z-index: 10;
 }
 
+.fa-bars{
+    color: white;
+    font-size: 30px;
+}
+
+.navbar-toggler{
+    outline: none !important;
+}
+
+
+
 #showcase{
     background-image: url(/anise-aroma-art-bazaar-277253.jpg);
     background-size:cover;

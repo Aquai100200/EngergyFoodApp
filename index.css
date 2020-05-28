@@ -15,9 +15,18 @@ body{
     z-index: 10;
 }
 
+.navbar-nav li{
+    padding: 0 10px;
+}
+
+.navbar-nav li a{
+    float: right;
+    text-align: left;
+}
+
 .fa-bars{
     color: white;
-    font-size: 30px;
+    font-size: 30px !important;
 }
 
 .navbar-toggler{

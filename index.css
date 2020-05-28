@@ -9,6 +9,12 @@ body{
     line-height:1.6;
 }
 
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
 #showcase{
     background-image: url(/anise-aroma-art-bazaar-277253.jpg);
     background-size:cover;
